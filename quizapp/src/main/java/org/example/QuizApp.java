@@ -37,7 +37,7 @@ public class QuizApp {
 
     private static Quiz createQuiz() {
         Quiz quiz = new Quiz();
-        try (BufferedReader reader = new BufferedReader(new FileReader("D://College files/learningJava/quizapp/src/main/java/org/example/java_quiz_questions.csv/"))) {
+        try (BufferedReader reader = new BufferedReader(new FileReader("*CSV FILE PATH*"))) {
             String line;
             while ((line = reader.readLine()) != null) {
                 String[] questionData = line.split(","); // Assuming CSV format is: question text,option1,option2,...,correctAnswerIndex
