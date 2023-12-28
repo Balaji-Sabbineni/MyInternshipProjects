@@ -1,0 +1,9 @@
+What is the keyword used to define a class in Java?,class,object,method,function,0
+What data type is used to store a single character in Java?,char,String,int,float,0
+What is the output of the following code: `int x = 10; x += 5; System.out.println(x);`?,5,10,15,20,2
+Which operator has the highest precedence in Java?,+,%,<,==,1
+What is the purpose of the `finally` block in Java?,handle exceptions,return a value,execute cleanup code,initialize class variables,1
+What is the syntax for creating an object of a class in Java?,new ClassName(),ClassName obj = new ClassName(),Class obj = new ClassName(),both b and c,1
+What is the access modifier used to make a class member accessible only within the class itself?,private,public,protected,default,0
+What is the package name for standard Java library classes?,java,util,lang,org.java,1
+What does HTML stand for?,Hypertext Markup Language,Hyperlink Text Management Language,High Text Making Language,Hyperlinking Textual Markup Language,0
